@@ -1,5 +1,5 @@
 {
-  "name": "ytake/lom",
+  "name": "raphaelscheinkoenig/lom",
   "description": "lombok style code generator for php",
   "minimum-stability": "stable",
   "license": "MIT",
